@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/user-attachments/assets/25bd47eb-aba6-4643-b445-efd9c9b2ad3e)
 <h1 align="center">Hi 👋, I'm Mayur Mahajan</h1>
 <h3 align="center">Passionate Computer Engineering student | App & Java Developer | Web Enthusiast</h3>
 <img align="right" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="coding" width="400">
@@ -25,3 +26,4 @@
 <p><br><br><br><br><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=er-mayur&show_icons=true&locale=en" alt="er-mayur" /></p>  
 
 <p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-mayur&" alt="er-mayur" /></p>
+
