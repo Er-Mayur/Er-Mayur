@@ -1,32 +1,140 @@
 ![MasterHead](https://github.com/user-attachments/assets/54298fa1-9eec-4720-8a87-c42a201e5752)
+
 <h1 align="center">Hi 👋, I'm Mayur Mahajan</h1>
-<h3 align="center">Passionate Computer Engineering student | App & Java Developer | Web Enthusiast</h3>
-<img align="right" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="coding" width="400">
+<h3 align="center">Full-Stack Developer (Python/Django + React) | AI-Powered Systems | REST APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=er-mayur&label=Profile%20views&color=0e75b6&style=flat" alt="er-mayur" /> </p>
+---
 
-- 🌱 I’m currently learning **React JS | Framework**
+<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
 
-- 📫 How to reach me **mahajanmayur2111@gmail.com**
+## 🚀 About Me
 
-- https://er-mayur.github.io/Portfolio/
+Full-Stack Developer focused on building scalable backend systems and AI-powered applications.
 
-- ⚡ Fun fact **Computer Engineering often dream in code and debug issues in their sleep!😅**
+- 🧠 Architect of **AI-CA – AI Powered Virtual Chartered Accountant**
+- ⚙️ Strong in **Django, FastAPI, REST APIs, JWT Authentication**
+- 📊 Built **Edu-Score Platform** used for 500+ student assessments
+- 📱 Developed **QR-based Attendance System** used by 200+ students
+- 🤖 Designed **Local Code RAG Assistant using Ollama**
+- 🔐 Clean Architecture + Secure Systems mindset
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🔥 Highlight Projects
+
+### 🧾 AI-CA – AI Powered Virtual Chartered Accountant  
+🔗 https://github.com/Er-Mayur/AI-CA  
+- Tax computation (Old vs New Regime)
+- RAG over Finance & GST documents
+- Automated PDF financial reports
+- React dashboard with charts
+- JWT-based authentication
+
+**Tech:** FastAPI, Python, React, MySQL, Ollama, RAG
+
+---
+
+### 🎓 Edu-Score – Internship Assessment Platform  
+🔗 https://github.com/Er-Mayur/Edu-Score  
+- 500+ student assessments
+- Automated scoring & leaderboard
+- Google Sheets + Apps Script integration
+- Domain-based secure testing
+
+**Tech:** Django, MySQL, JavaScript
+
+---
+
+### 📱 QR Code Based Attendance System  
+🔗 https://github.com/Er-Mayur/QR-Firebase-Attendance-Admin-App  
+- Android app used by 200+ students
+- Firebase Realtime Database
+- QR-based attendance tracking
+- Google Sheets sync
+
+**Tech:** Java, Firebase, Android Studio
+
+---
+
+### 🤖 Code RAG – Local AI Code Assistant  
+🔗 https://github.com/Er-Mayur/Code-RAG-Assistant-Django-Project  
+- Full project indexing
+- Embeddings + vector search
+- Real-time AI chat interface
+- Offline AI processing via Ollama
+
+**Tech:** Django, Python, Ollama, RAG
+
+---
+
+## 🛠 Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/mayurmahajan2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayurmahajan2111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayur9877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayur9877" height="30" width="40" /></a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=er-mayur&show_icons=true&locale=en&layout=compact" alt="er-mayur" /></p>  
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Mayur&theme=tokyo-night" />
+</p>
 
-<p><br><br><br><br><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=er-mayur&show_icons=true&locale=en" alt="er-mayur" /></p>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Mayur&theme=tokyonight" />
+</p>
 
-<p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-mayur&" alt="er-mayur" /></p>
+---
 
+## 📫 Connect With Me
 
+- 📧 Email: <a href="mailto:mahajanmayur2111@gmail.com">mahajanmayur2111@gmail.com</a>  
+- 💼 LinkedIn: <a href="https://linkedin.com/in/mayurmahajan2111" target="_blank">linkedin.com/in/mayurmahajan2111</a>  
+- 🌐 Portfolio: <a href="https://mayurmahajan.in" target="_blank">mayurmahajan.in</a>  
+- 🧑‍💻 GitHub: <a href="https://github.com/Er-Mayur" target="_blank">github.com/Er-Mayur</a>  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
+
+---
+
+### ⚡ Engineering Principle
+> Build scalable systems.  
+> Design before coding.  
+> Accuracy before assumptions.
